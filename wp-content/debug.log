@@ -1,0 +1,389 @@
+[17-May-2022 14:45:40 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:45:40 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:45:45 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:48:31 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:50:33 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): wp_infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:52:05 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:52:05 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:52:06 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:52:06 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:53:47 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:53:47 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:53:48 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:53:49 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:54:25 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:54:30 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:54:30 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:54:30 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:57:37 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:57:37 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:57:38 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 14:57:39 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 15:00:24 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(14): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 15:04:38 UTC] PHP Warning:  Undefined array key 0 in D:\tatvasoft\Project\chemical\wp-includes\class-wp-query.php on line 3377
+[17-May-2022 15:05:19 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 15:05:19 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in D:\tatvasoft\Project\chemical\wp-includes\general-template.php:181
+Stack trace:
+#0 D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php(17): get_template_part(Object(WP_Query))
+#1 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(307): infinite_scroll('')
+#2 D:\tatvasoft\Project\chemical\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\tatvasoft\Project\chemical\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\tatvasoft\Project\chemical\wp-admin\admin-ajax.php(187): do_action('wp_ajax_infinit...')
+#5 {main}
+  thrown in D:\tatvasoft\Project\chemical\wp-includes\general-template.php on line 181
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:37 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:38 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:38 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:14:38 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:15:03 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 52
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:26 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:50 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:16:58 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 54
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:48 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:52 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:17:57 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:21 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:23 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:24 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:24 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:24 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:24 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[17-May-2022 15:18:24 UTC] PHP Warning:  Undefined variable $icon_read_more in D:\tatvasoft\Project\chemical\wp-content\themes\chemtrade\inc\custom-function.php on line 55
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=16864 in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753
+[18-May-2022 05:27:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in D:\tatvasoft\Project\chemical\wp-includes\wp-db.php on line 1753

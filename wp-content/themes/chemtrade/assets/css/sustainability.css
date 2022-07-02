@@ -1,0 +1,190 @@
+.sustainability-page { font-size: 18px; line-height: 22px; } 
+.sustainability-page a.additional-link { color: #359de5; font-size: 14px; line-height: 18px; height: 22px; min-width: 30px; padding: 0 4px; border: 1px solid #359de5; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; margin-left: 2px; } 
+.sustainability-page a.additional-link:hover, .sustainability-page a.additional-link:focus { background-color: #359de5; color: #fff; } 
+.sustainability-page .page-header::before { background: linear-gradient(to right, rgba(36, 77, 16, 0.8) 0%, rgba(36, 77, 16, 0.8) 26%, rgba(36, 77, 16, 0.78) 33%, rgba(36, 77, 16, 0.69) 40%, rgba(36, 77, 16, 0.61) 44%, rgba(36, 77, 16, 0.31) 56%, rgba(36, 77, 16, 0.18) 63%, rgba(36, 77, 16, 0.12) 74%, rgba(36, 77, 16, 0.12) 100%); } 
+.sustainability-page .collapse-links-block .square-bullets { margin-top: 20px; display: none; } 
+.sustainability-page .collapse-links-block .square-bullets li+li { margin-top: 6px; } 
+.sustainability-page .page-header .page-nav-wrapper { height: 40px; } 
+.sticky-page-nav .sustainability-page .page-header .page-nav-wrapper { height: 51px; } 
+
+.sustainability-info-block { padding: 77px 0 30px; } 
+.sustainability-info-block .card-info { display: flex; align-items: center; padding: 20px 25px; } 
+.sustainability-info-block .card-info .info { padding: 10px 67px 10px 24px; } 
+.sustainability-info-block .thumb { min-width: 346px; } 
+.sustainability-info-block h2 { text-transform: uppercase; font-size: 32px; line-height: 36px; font-weight: 700; margin-bottom: 11px; } 
+.sustainability-info-block .h4 { font-weight: 400; color: #666; margin-bottom: 0; } 
+.sustainability-info-block .text-success { color: #72bb29 !important; margin-bottom: 17px; } 
+
+
+.sustainability-accordion .accordion-wrapper { margin: 30px 0 0 138px; } 
+.sustainability-accordion .accordion-wrapper .accordion-block +.accordion-block { margin-top: 20px; } 
+.sustainability-accordion .accordion-block .accordion-body { padding: 6px 35px 32px 72px; } 
+.sustainability-accordion > h3 { font-weight: 400; margin-bottom: 22px; } 
+.sustainability-accordion .accordion-wrapper { display: none; } 
+.sustainability-accordion .accordion-block .title .h5 { color: #1f3f85; margin: 0; } 
+.sustainability-accordion .esg-block { padding-bottom: 34px; } 
+.sustainability-accordion .esg-block .esg-header { display: flex; } 
+.sustainability-accordion .esg-block .esg-thumb { min-width: 106px; } 
+.sustainability-accordion .esg-block .esg-content { padding: 0 24px 0 30px; }
+/* date:- 22/10/2021 css start */
+.sustainability-accordion .esg-block .esg-content .gray-title{color: #666;}
+/* date:- 22/10/2021 css end */
+.sustainability-accordion .esg-block .esg-header p { margin: 0; } 
+.sustainability-accordion .accordion-body .header-bg { text-align: center; background-image: linear-gradient(to right, #3b8cc4, #60b7f4); color: #fff !important; padding: 10px 10px; border-radius: 15px; margin: 18px 0 15px; } 
+.sustainability-accordion .accordion-body { color: #636363; } 
+.sustainability-accordion .accordion-body blockquote { color: #1f3f85; font-style: italic; } 
+.sustainability-accordion .accordion-body .img-content { display: flex; margin-bottom: 27px; } 
+.sustainability-accordion .accordion-body .img-content .content { padding-right: 32px; } 
+.sustainability-accordion .accordion-body .img-content .content p { line-height: 24px; } 
+.sustainability-accordion .accordion-body .img-content .img-thumb { min-width: 279px; } 
+.sustainability-accordion .accordion-body .img-content .square-bullets { font-size: 20px; line-height: 24px; } 
+.sustainability-accordion .accordion-body .sub-content { padding-left: 14px; } 
+.sustainability-accordion .square-bullets li { padding-left: 21px; line-height: 24px; } 
+.sustainability-accordion .square-bullets li+li { margin-top: 25px; } 
+.sustainability-accordion .accordion-body li>.sub-content { padding-left: 0px; margin: 15px 0 0; } 
+.sustainability-accordion .accordion-body .sub-header { position: relative; text-align: center; background-color: #fff; box-shadow: 0px 2px 12px 0px rgba(0, 0, 0, 0.1); color: #636363; padding: 9px 10px; border-radius: 15px; font-size: 28px; line-height: 32px; margin: 15px 0 0; } 
+.sustainability-accordion .accordion-body .life-safety-thumb { background-color: #f5f5f5; text-align: center; padding: 48px 15px 30px; margin: -20px 0 17px; border-radius: 15px; } 
+.sustainability-accordion .accordion-body .h6 { color: #636363; } 
+
+
+.sustainability-environmental-block { padding: 32px 0 0; } 
+.sustainability-environmental-block h2 { margin-bottom: 18px; } 
+.sustainability-environmental-block .container > p { margin-bottom: 26px; } 
+.sustainability-environmental-block p { line-height: 22px; } 
+
+.sustainability-employee-engagement-block .img-content .content .h6 { margin: 26px 0 8px; } 
+.sustainability-employee-engagement-block .square-bullets { margin-bottom: 23px; } 
+.sustainability-employee-engagement-block .square-bullets li+li { margin-top: 13px; } 
+.sustainability-employee-engagement-block .accordion-block .accordion-body p+p { margin: 22px 0 0; } 
+.sustainability-community-outreach .square-bullets { margin: 23px 0 0; } 
+.sustainability-community-outreach .square-bullets li+li { margin-top: 19px; } 
+
+
+.sustainability-esg-oversight-block .accordion-body > .square-bullets { margin-bottom: 20px; } 
+.sustainability-esg-oversight-block h4 { color: #636363; margin-bottom: 3px; } 
+.sustainability-esg-oversight-block .pdfs-info { margin: 21px 0 0px; } 
+.sustainability-esg-oversight-block .pdfs-info .square-bullets li+li { margin-top: 0px; } 
+.sustainability-esg-oversight-block .pdfs-info > .h6 { margin: 31px 0 0px; } 
+.sustainability-esg-oversight-block .pdfs-info .sub-content { padding-left: 28px; } 
+.sustainability-esg-oversight-block .pdfs-info .sub-content .h6 { font-weight: 400; margin: 20px 0 0px; } 
+.sustainability-esg-oversight-block .accordion-body .pdf-links { margin-top: 20px; display: inline-flex; flex-direction: column; align-items: flex-start; } 
+.sustainability-esg-oversight-block .accordion-body .pdf-links > * { margin-bottom: 5px; } 
+
+
+.sustainability-responsible-care-block { padding: 40px 0px; background-color: #f3f5f8; } 
+.sustainability-responsible-care-block p:not(.h4), .sustainability-quality-block p:not(.h4) { line-height: 22px; margin-bottom: 20px; } 
+.sustainability-responsible-care-block h2 { margin-bottom: 30px; } 
+.sustainability-responsible-care-block h2 sup { font-size: inherit; font-weight: 400; } 
+.sustainability-responsible-care-block p.h4 { font-weight: 400; color: #666; margin-bottom: 48px; } 
+.sustainability-responsible-care-block .card { box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.18); border-radius: 15px; min-width: 387px; padding: 46px 30px; display: flex; align-items: center; justify-content: center; margin-top: -94px; } 
+.sustainability-responsible-care-block .card img { display: block; width: 260px; } 
+.sustainability-responsible-care-block h3, .sustainability-quality-block h3 { font-weight: 400; margin-bottom: 10px; } 
+.sustainability-responsible-care-info { display: flex; align-items: center; } 
+.sustainability-responsible-care-info .responsible-left-content { padding-right: 41px; } 
+
+
+.sustainability-quality-block { padding: 40px 0px 60px; } 
+.sustainability-quality-block h2 { margin-bottom: 39px; } 
+.sustainability-quality-block blockquote { font-weight: 400; color: #666; margin-bottom: 24px; font-style: italic; } 
+.sustainability-quality-block blockquote strong { display: block; margin-top: 9px; font-style: normal; } 
+.sustainability-quality-inner { display: flex; } 
+.sustainability-quality-inner .sustainability-quality-info { padding-right: 26px; } 
+.sustainability-quality-inner .sustainability-quality-thumb { min-width: 356px; } 
+
+/* date:- 22/10/2021 css start */
+.accordion-detail-box { border: 1px solid #5db2df; border-radius: 8px; } 
+.accordion-detail-box .box-header { background-color: #5db2df; text-align: center; padding: 10px; border-radius: 8px 8px 0 0; } 
+.accordion-detail-box .box-header h4.h6 { color: #fff; text-transform: uppercase; } 
+.accordion-detail-box .box-body { padding: 25px 20px; } 
+.box-body .gray-text { font-weight: 600; } 
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content { margin: 30px 0 0; align-items: center; } 
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .content { order: 2; padding-right: 0; padding-left: 20px; } 
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .content p{font-weight: 600; color: #000;}
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .img-thumb{min-width: 80px;}
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .img-thumb img{max-height: 80px; width: 80px;}
+.box-body em{min-width: 100px; min-height: 100px; border-radius: 50%; shape-outside: circle(); float: right; margin-left: 30px;}
+.box-body em img{border-radius: 50%; max-height: 100px; width: 100px;}
+/* date:- 22/10/2021 css end */
+
+
+@media (max-width:991px){
+ .sustainability-page { font-size: 16px; line-height: 20px; } 
+.sustainability-page .page-header .page-nav-wrapper { height: 38px; } 
+.sticky-page-nav .sustainability-page .page-header .page-nav-wrapper { height: 49px; } 
+
+.sustainability-info-block { padding: 56px 0 30px; } 
+.sustainability-info-block h2 { font-size: 28px; line-height: 32px; margin-bottom: 8px; } 
+.sustainability-info-block .thumb { min-width: 254px; } 
+.sustainability-info-block .card-info { margin: 0; } 
+.sustainability-info-block .card-info .info { padding: 0px 33px 0px 0; } 
+
+.sustainability-accordion .accordion-block .title { padding: 18px 15px 18px 48px; } 
+.sustainability-accordion .accordion-block .title:before { top: 25px; left: 18px; } 
+.sustainability-accordion .accordion-block .accordion-body { padding: 6px 20px 30px 48px; } 
+.sustainability-accordion .accordion-body .img-content { flex-wrap: wrap; margin-bottom: 30px; } 
+.sustainability-accordion .accordion-body .img-content .img-thumb { min-width: 100%; margin: 10px 0 24px; text-align: center; } 
+.sustainability-accordion .accordion-body .img-content .content { padding-right: 0px; order: 2; } 
+
+.sustainability-environmental-block { padding: 26px 0 0; } 
+.sustainability-environmental-block .container > p { margin-bottom: 20px; } 
+
+.sustainability-accordion .esg-block .esg-content .h6 { font-size: 18px; line-height: 22px; } 
+.sustainability-accordion .esg-block .esg-thumb { min-width: 90px; } 
+.sustainability-accordion .esg-block .esg-content { padding: 0 0 0 20px; } 
+.sustainability-accordion .accordion-wrapper { margin: 30px 0 0 111px; } 
+.sustainability-accordion .accordion-body .sub-header { font-size: 24px; line-height: 28px; } 
+
+.sustainability-responsible-care-block { padding: 34px 0px; } 
+.sustainability-responsible-care-block .card { min-width: 280px; margin-top: 0; } 
+.sustainability-responsible-care-block h2 { margin-bottom: 24px; } 
+.sustainability-responsible-care-block p.h4 { margin-bottom: 30px; } 
+
+.sustainability-quality-block { padding: 32px 0px 50px; } 
+.sustainability-quality-block h2 { margin-bottom: 24px; } 
+.sustainability-quality-inner .sustainability-quality-thumb { min-width: 280px; } 
+
+/* date:- 22/10/2021 css start */
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .content{padding-left: 0;}
+.sustainability-accordion .accordion-block.content-secondary .accordion-body .img-content .img-thumb{min-width: 100%;}
+.box-body em{min-width: auto; min-height: auto; float: none; margin-left: 0; margin-bottom: 15px; display: flex; justify-content: center; shape-outside: none;}
+/* date:- 22/10/2021 css end */
+
+}
+@media (max-width:767px){
+ .sustainability-page .page-header .page-nav-wrapper { height: 34px; } 
+.sustainability-page .page-header::before { background: linear-gradient(to right, rgba(36, 77, 16, 0.8) 0%, rgba(36, 77, 16, 0.8) 26%, rgba(36, 77, 16, 0.78) 33%, rgba(36, 77, 16, 0.69) 40%, rgba(36, 77, 16, 0.61) 70%, rgba(36, 77, 16, 0.31) 100%); } 
+.sustainability-responsible-care-block a.secondary, .sustainability-quality-inner a.secondary, .sustainability-esg-oversight-block .pdfs-info a.secondary { text-decoration: underline; } 
+.sustainability-responsible-care-block a.secondary::after, .sustainability-quality-inner a.secondary::after, .sustainability-esg-oversight-block .pdfs-info a.secondary::after { display: none; } 
+
+.sustainability-info-block { padding: 40px 0 20px; } 
+.sustainability-info-block h2 { font-size: 22px; line-height: 30px; margin-bottom: 4px; } 
+.sustainability-info-block .card-info { display: block; padding: 20px 14px; } 
+.sustainability-info-block .text-success { margin-bottom: 12px; } 
+.sustainability-info-block .thumb { display: none; } 
+.sustainability-info-block .card-info .info { padding: 0px; } 
+
+.sustainability-accordion .accordion-body blockquote { text-align: center; } 
+.sustainability-accordion .accordion-body .life-safety-thumb { padding: 48px 8px 30px; } 
+.sustainability-accordion .esg-block .esg-header { display: block; } 
+.sustainability-accordion .esg-block .esg-content { padding: 0; } 
+.sustainability-accordion .esg-block .esg-thumb { text-align: center; margin-bottom: 10px; } 
+.sustainability-accordion .accordion-wrapper { margin: 20px 0 0 0px; } 
+.sustainability-accordion .accordion-wrapper .accordion-block +.accordion-block { margin-top: 15px; } 
+.sustainability-accordion .accordion-block .accordion-body { padding: 6px 15px 30px 15px; } 
+.sustainability-accordion .accordion-body .sub-content { padding-left: 0; } 
+.sustainability-accordion .square-bullets li { line-height: 20px; } 
+.sustainability-accordion .square-bullets li+li { margin-top: 20px; } 
+.sustainability-accordion .accordion-body .sub-header { font-size: 16px; line-height: 20px; } 
+.sustainability-accordion .accordion-body .img-content { margin-bottom: 15px; } 
+.sustainability-accordion .accordion-body .img-content .img-thumb { margin: 0px auto 15px; } 
+.sustainability-employee-engagement-block .square-bullets li+li { margin-top: 13px; } 
+
+.sustainability-responsible-care-info { flex-wrap: wrap; } 
+.sustainability-responsible-care-info .responsible-left-content { padding-right: 0px; order: 2; } 
+.sustainability-responsible-care-info .responsible-right-content { margin: 0 auto 20px; } 
+.sustainability-responsible-care-block .card { min-width: 100%; margin: 0px; } 
+
+.sustainability-quality-inner { flex-wrap: wrap; } 
+.sustainability-quality-inner .sustainability-quality-thumb { min-width: 100%; text-align: center; margin-bottom: 20px; } 
+.sustainability-quality-inner .sustainability-quality-info { padding-right: 0; order: 2; } 
+ }

@@ -1,0 +1,34 @@
+/* Import All css here */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+@import "bootstrap.min.css";
+@import "swiper-bundle.min.css";
+@import "jquery.mCustomScrollbar.min.css";
+@import "select2.min.css";
+@import "aos.css";
+@import "style.css";
+
+/*@import "megamenu.css";*/
+
+
+/*@import "megamenu-new.css";*/
+
+@import "about.css";
+@import "product.css";
+@import "product-sppc.css";
+@import "news.css";
+@import "career.css";
+@import "search.css";
+@import "investor.css";
+@import "contact.css";
+@import "location.css";
+@import "sustainability.css";
+@import "application.css";
+@import "pagenotfound.css";
+
+/* Body Hidden till Load the page */
+
+body:not(.page-loaded) {
+    opacity: 0;
+    overflow: hidden;
+}

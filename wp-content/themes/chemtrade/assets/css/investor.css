@@ -1,0 +1,336 @@
+.investors-page p { font-size: 18px; line-height: 22px; }
+.investors-page h2 { text-align: center; font-size: 36px; line-height: 40px; font-weight: 700; }
+.investors-page .h4 { font-size: 24px; line-height: 28px; font-weight: 700; }
+
+.investors-fund-block { padding: 85px 0 0; }
+.investors-fund-block p:last-child { margin: 0; }
+.investors-fund-block .card-info { display: flex; padding: 34px 31px; }
+.investors-fund-block .card-info .info { padding-right: 20px; }
+.investors-fund-block .card-info .thumb { min-width: 307px; }
+.investors-fund-block h2.h4 { font-weight: 700; color: #282828; margin-bottom: 16px;font-weight: 700; text-align: left;  }
+.investors-fund-block .h4 { font-weight: 400; color: #666; font-size: 24px; line-height: 28px; margin-bottom: 29px; }
+.investors-fund-block a { color: #57a1d5; }
+.investors-fund-block a:hover,.investors-fund-block a:focus { color: #282828; }
+
+.investors-business-block { padding: 60px 0 0; }
+.investors-business-block .container > .h4 { text-align: center; margin-bottom: 23px; }
+.investors-products-box .investors-products-title { min-height: 100px; background-color: #1f3f85; display: flex; align-items: center; color: #fff; }
+.investors-products-box .investors-products-title em { min-width: 53px; width: 53px; height: 53px; border-radius: 50%; margin-right: 15px; }
+.investors-products-box .investors-products-title .h5 { padding: 15px; display: flex; align-items: center; color: #fff; margin: 0; }
+.investors-products-box  .investors-products-body { padding: 22px 18px; box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.18); height: 100%; }
+.investors-products-box  .investors-products-body p { margin-bottom: 19px; }
+.investors-products-box  .investors-products-body p:last-child { margin: 0; }
+
+.investors-vision-block {text-align: center; color: #fff;    padding: 34px 0 47px;}
+.investors-vision-block .container{max-width: 782px;}
+.investors-vision-block .investors-vision{background-color: #359de5; border-radius: 8px; padding: 16px;}
+.investors-vision-block .h4{font-size: 30px; line-height: 34px; color: #fff;     margin-bottom: 5px;}
+.investors-vision-block p{font-size: 20px; line-height: 24px; color: #fff; margin: 0;}
+
+
+.investors-join-block { background-color: #1f3f85; text-align: center; padding: 32px 0; }
+.investors-join-block .h4 { color: #fff; font-weight: 400; margin-bottom: 25px; }
+.investors-join-block p { font-size: 18px; line-height: 22px; margin-bottom: 7px; color: #fff; }
+.investors-join-block .input-group { border-radius: 14px; overflow: hidden; width: 438px; max-width: 100%; margin: 0 auto; }
+.investors-join-block .input-group>.input-group-append>.btn { border-top-right-radius: 0; border-bottom-right-radius: 0; display: flex; align-items: center; padding: 0 30px; font-size: 24px; line-height: 28px; border-radius: 0 14px 14px 0; }
+.investors-join-block .form-control { height: 52px; font-size: 18px; line-height: 22px; border-radius: 14px 0 0 14px !important; }
+.investors-join-block .form-control::placeholder { color: #b3b3b3; line-height: 33px !important; }
+.investors-join-block .form-control::-webkit-placeholder { color: #b3b3b3; line-height: 33px !important; }
+.investors-join-block .form-control::-moz-placeholder { color: #b3b3b3; }
+.investors-join-block .form-control:-ms-input-placeholder { color: #b3b3b3; }
+.investors-join-block .form-control:-moz-placeholder { color: #b3b3b3; }
+
+
+.investors-news-block { padding: 59px 0 40px; }
+.investors-news-block h2 { margin-bottom: 46px; }
+.swiper-container.investors-news-slider { padding: 9px 10px 30px; }
+.investors-news-block .news-list-wrapper { margin: 0; }
+.investors-news-block .news-list-wrapper:hover,.investors-news-block .news-list-wrapper:focus { top: 0; }
+.investors-news-block .news-list-wrapper .h6 { margin-bottom: 15px; color: #282828; }
+.investors-news-block .news-list-wrapper .news-list-outer { justify-content: normal; padding: 20px 21px 20px 48px; }
+.investors-news-block .news-list-wrapper .news-list-outer p { margin: 0 0 20px; font-size: 14px; line-height: 22px; }
+.investors-news-block .news-list-wrapper .news-list-outer .bottom-link { text-align: left; margin-top: auto; }
+.investors-news-block .news-list-wrapper .news-list-outer .bottom-link .read-more-link { color: #666666; font-size: 14px; line-height: 22px; }
+.investors-news-slider-footer { text-align: right; display: flex; justify-content: space-between; align-items: center; }
+.investors-news-slider-footer .btn { padding: 9px 32px 10px; }
+.investors-news-slider-arrows { display: flex; margin-left: 34px; }
+.investors-news-slider-arrows > div:hover, .investors-news-slider-arrows > div:focus { opacity: 0.8; }
+.investors-news-slider-arrows .swiper-button-next, .swiper-button-prev { display: block; width: 56px; height: 56px; margin-top: 0; position: relative; background-color: #ececec; }
+.investors-news-slider-arrows .swiper-button-prev, .swiper-container-rtl .swiper-button-next, .investors-news-slider-arrows .swiper-button-next, .swiper-container-rtl .swiper-button-prev { left: 0 !important; right: 0 !important; }
+.investors-news-slider-arrows .swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after { content: ''; width: 13px; height: 25px; position: absolute; top: 50%; left: 50%; background-image: url(../images/dark-gray-right-arrow.svg); background-repeat: no-repeat; background-position: center; transform: translate(-50%, -50%); }
+.investors-news-slider-arrows .swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after { content: ''; width: 13px; height: 25px; position: absolute; top: 50%; left: 50%; background-image: url(../images/dark-gray-left-arrow.svg); background-repeat: no-repeat; background-position: center; transform: translate(-50%, -50%); }
+
+.investors-stock-block {padding: 10px 0 50px; }
+.investors-stock-block .container > h2 { margin-bottom: 45px; }
+.investors-stock-block .container > p { margin-bottom: 8px; }
+.investors-stock-block p { font-size: 20px; line-height: 24px; }
+.investors-stock-block .h5 { color: #ff9c1b; font-weight: 700; margin: 0; margin-left: auto; }
+.investors-stock-wrapper { text-align: left; padding: 24px 0 0; }
+
+.investors-stock-outer { display: flex; align-items: center; flex-wrap: wrap; padding: 22px 17px; margin-bottom: 30px; box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.14) !important; }
+
+.investors-stock-outer .h6 { text-transform: uppercase; font-weight: 400; margin-bottom:0; }
+.investors-stock-outer .h3 { font-size: 36px; line-height: 40px; font-weight: 600; }
+.investors-stock-outer .h3 span{ font-weight: 400;}
+.investors-stock-outer span.h6 { color: #3fa000; font-weight: 700; }
+.investors-stock-outer .investors-stock-title { width: 32%; max-width: 100%; }
+.investors-stock-outer .investors-stock-moniter { display: flex; align-items: center; width: 32%; max-width: 100%; padding: 0 15px; }
+.investors-stock-outer .investors-stock-volume { width: 18%; padding-right: 15px; }
+.investors-stock-outer .investors-stock-moniter .stock-moniter-values { padding-left: 11px; }
+.investors-stock-outer .investors-stock-moniter.no-change .h6 { color: #242424; }
+.investors-stock-outer .investors-stock-moniter .stock-thumb { min-width: 34px; }
+.investors-stock-outer .investors-stock-volume .h6 { color: #242424; }
+.investors-stock-outer .sm-text { color: #282828; text-transform: uppercase; font-weight: 400; display: block; font-size: 14px; line-height: 18px; }
+
+.investors-stock-outer.investors-stock-outer-secondary { position: relative; top: 0; padding: 22px 70px 22px 18px;  text-align: left; }
+.investors-stock-outer.investors-stock-outer-secondary::before { content: ''; position: absolute; top: 50%; transform: translateY(-50%); right: 20px; background-image: url(../images/right-lg-arrow.svg); width: 42px; height: 28px; background-size: 42px; background-position: center; transition: all 0.3s; }
+.investors-stock-outer.investors-stock-outer-secondary:hover::before, .investors-stock-outer.investors-stock-outer-secondary:focus::before { right: 10px; }
+.investors-stock-outer.investors-stock-outer-secondary .investors-stock-title { margin: 0; width: 100%; }
+.investors-stock-outer.investors-stock-outer-secondary .h6 { text-transform: uppercase; font-weight: 400; margin-bottom: 0; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.investors-stock-outer.investors-stock-outer-secondary .h3 { width: 100%; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.investors-financial-report-block { text-align: center; background-color: #f3f5f8; padding: 40px 0 53px; }
+.investors-financial-report-block .container > h2 { margin-bottom: 30px; }
+.investors-financial-report-block .container > p { margin: 0 -5px 18px; }
+.investors-financial-report-block .container > p:last-child { margin-bottom: 0px; }
+.investors-financial-report-block .form-control.custom-dropdown { width: 142px; max-width: 100%; }
+.investors-financial-report-block .form-control.custom-dropdown ~ .select2-container { margin: 0 auto 36px; }
+.investors-financial-report-block .card-info-wrapper { position: relative; overflow: hidden; padding: 10px 5px 5px 0; margin: -5px -5px 36px 0; transition: all 0.3s; height: calc(100% - 36px); }
+.investors-financial-report-block .card-info { background: #fff; padding: 16px 26px; text-align: left; color: #282828; position: relative; top: 0; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.17); z-index: 1; margin: 0; }
+.investors-financial-report-block .card-info:hover, .investors-financial-report-block .card-info:focus { top: -5px; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.17) !important; }
+.investors-financial-report-block .card-info::before { content: ""; position: absolute; bottom: -1px; right: -1px; width: 30px; height: 30px; min-width: 30px; background-image: url(../images/float-page.png); background-repeat: no-repeat; background-position: left top; background-color: #f3f5f8; }
+.investors-financial-report-block .card-info .card-img-bg { position: absolute; right: 0; z-index: -1; top: -5px; width: 100%; height: calc(100% + 10px); left: -4px; }
+.investors-financial-report-block .card-info-wrapper:after { content: ''; position: absolute; right: 0; bottom: 0; z-index: 1; display: inline-block; width: 0; height: 0; border-style: solid; border-width: 0 0 35px 35px; border-color: transparent transparent #f3f5f8 transparent; }
+.investors-financial-report-block .card-info .h6 { font-weight: 400; margin-bottom: 22px; }
+.investors-financial-report-block a { color: #57a1d5; }
+.investors-financial-report-block a:hover, .investors-financial-report-block a:focus { color: #282828; }
+
+
+.card-distribute { box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.18); padding: 12px 30px 20px; display: flex; flex-wrap: wrap; }
+.card-distribute .distribute-left { width: 28%; border-right: 1px solid #cacaca; padding: 33px 30px 0px 0; }
+.card-distribute .distribute-left .content { background-color: #f3f5f8; text-align: center; padding: 21px 15px; height: 100%; }
+.card-distribute .distribute-left .form-control.custom-dropdown { width: 142px; max-width: 100%; }
+.card-distribute .distribute-left .form-control.custom-dropdown ~ .select2-container { margin: 0 auto 22px; }
+.card-distribute .distribute-right { width: 72%; padding-left: 24px; }
+.card-distribute .distribute-table-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; }
+.card-distribute .distribute-right .h4 { color: #666; }
+.card-distribute .distribute-right .form-control.custom-dropdown { width: 112px; max-width: 100%; }
+.card-distribute .table { color: #666; font-size: 18px; line-height: 22px; white-space: nowrap; }
+.card-distribute .table thead th { vertical-align: middle; border-bottom: 1px solid #cacaca; font-weight: 700; }
+.card-distribute .table td, .card-distribute  .table th { vertical-align: middle; border-bottom: 1px solid #cacaca; padding: 7px 3px; }
+.card-distribute .table tfoot th { font-weight: 700; }
+.card-distribute .distribute-footer { text-align: right; }
+
+.investors-distributions-block { padding: 51px 0 77px; }
+.investors-distributions-block .container > h2 { margin-bottom: 46px; }
+.investors-distributions-block .card-distribute .distribute-left { display: flex; flex-direction: column; }
+.investors-distributions-block .card-distribute .distribute-left p { margin-bottom: 20px; flex: 0 0 auto; }
+.investors-distributions-block .card-distribute .distribute-left .h6 { margin-bottom: 13px; color: #666;}
+
+
+.investors-drip-block { color: #fff; background-color: #359de5; text-align: center; padding: 35px 0 50px; }
+.investors-drip-block h2 { color: #fff;     margin-bottom: 40px;}
+.investors-drip-block h2 span { display: block; font-size: 18px; line-height: 22px; }
+.investors-drip-block p { color: #fff; margin: 0;}
+.investors-drip-block .h4 { font-size: 24px; line-height: 28px; font-weight: 400;    margin-bottom: 37px; }
+
+
+.investors-webcasts-block { padding: 64px 0 68px; }
+.investors-webcasts-block .container > h2 { margin-bottom: 55px; }
+.investors-webcasts-block p { margin: 0; }
+.investors-webcasts-block .card-distribute { padding: 22px 30px; }
+.investors-webcasts-block .distribute-left { width: 30%; background-color: transparent; padding: 28px 30px 33px 0; text-align: center; }
+.investors-webcasts-block .distribute-left span, .investors-webcasts-block .distribute-left .h6 { display: block; color: #282828; margin-bottom: 2px; }
+.investors-webcasts-block .distribute-left .headphone-img { margin-bottom: 12px; }
+.investors-webcasts-block .distribute-left .play-img { margin: 17px 0 16px; display: inline-flex; }
+.investors-webcasts-block .distribute-left .play-img:hover, .investors-webcasts-block .distribute-left .play-img:focus { transform: rotate(240deg); }
+.investors-webcasts-block .distribute-right { width: 70%; padding-left: 40px; }
+.investors-webcasts-block .card-distribute .distribute-table-header { margin-bottom: 30px; }
+.investors-webcasts-list { border-bottom: 1px solid #cacaca; color: #242424; }
+.investors-webcasts-list .webcasts-list-outer { display: block; border-top: 1px solid #cacaca; padding: 11px 61px 16px; position: relative; left: 0; }
+.investors-webcasts-list .webcasts-list-outer::before { content: ""; position: absolute; width: 24px; height: 23px; top: 50%; left: 10px; transform: translateY(-50%); background-image: url(../images/pdf-icon.svg); background-size: 24px; background-repeat: no-repeat; background-position: center; }
+.investors-webcasts-list .webcasts-list-outer::after { content: ""; position: absolute; top: 50%; transform: translateY(-50%); right: 18px; width: 30px; height: 38px; background-image: url(../images/download.png); background-size: 30px; background-repeat: no-repeat; background-position: center; }
+.investors-webcasts-block .webcasts-list-outer .h6 { font-size: 14px; line-height: 18px; color: #666;}
+.investors-webcasts-list .webcasts-list-outer:hover, .investors-webcasts-list .webcasts-list-outer:focus { padding: 11px 61px 16px 66px; }
+.investors-webcasts-block .webcasts-list-outer:hover .h6, .investors-webcasts-list .webcasts-list-outer:focus .h6{color: #56a1d5;}
+
+
+.investors-presentations-block { padding: 46px 0 60px; text-align: center; background-color: #f3f5f8; }
+.investors-presentations-block .container > p { margin-bottom: 51px; }
+.investors-presentations-block .card { text-align: center; padding: 10px 10px 17px; box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.18); margin-bottom: 43px; position: relative; top: 0; }
+.investors-presentations-block .card:hover, .investors-presentations-block .card:focus { box-shadow: 0px 0px 18px 8px rgba(0, 0, 0, 0.18) !important; top: -10px; }
+.investors-presentations-block .card .thumb { background-repeat: no-repeat; background-position: center; background-size: cover; padding-bottom: 77%; border: 1px solid #eeeeee; }
+.investors-presentations-block .card .h6 { color: #282828; margin: 22px 0px 0px; }
+.investors-presentations-block .card .h6 span { font-size: 14px; line-height: 18px; font-weight: 400; }
+
+.investors-analysts-block { text-align: center; padding: 58px 0 45px; }
+.investors-analysts-block .container > h2 { margin-bottom: 42px; }
+.investors-analysts-block .container > p { margin-bottom: 22px; }
+.investors-analysts-block .thumb { margin-bottom: 7px; }
+.investors-analysts-block .container > .table-wrapper { max-width: 778px; margin: 0 auto; }
+.investors-analysts-block .table { text-align: left; color: #666666; font-size: 18px; line-height: 22px; white-space: nowrap; }
+.investors-analysts-block .table thead th { vertical-align: middle; border-bottom: none; background-color: #359de5; color: #fff; padding: 16px; }
+.investors-analysts-block .table td, .investors-analysts-block .table th { vertical-align: middle; border-bottom: 1px solid #cacaca; padding: 19px 8px; }
+.investors-analysts-block .table a { color: #56a1d5; }
+.investors-analysts-block .table a:hover, .investors-analysts-block .table a:focus { color: #666666; }
+
+
+.investors-governance-block { text-align: center; background-color: #f3f5f8; padding: 42px 0 30px; margin-bottom: 36px; }
+.investors-governance-block .card { box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.18); border-radius: 15px; width: 387px; max-width: 100%; padding: 16px 30px; margin: 0 auto; }
+.investors-governance-block .container > h2 { margin-bottom: 53px; }
+.investors-governance-block p { text-align: left; margin-bottom: 20px; }
+.investors-governance-block p:last-child { margin: 0; }
+.investors-governance-block .h4 { font-weight: 400; margin: 30px 0 22px; text-align: center; font-size: 24px; line-height: 28px; }
+
+
+.presentationsmodal.modal .modal-dialog { width: 832px; max-width: 100%; }
+.presentationsmodal.modal .form-control.custom-dropdown { width: 142px; max-width: 100%; }
+.presentationsmodal.modal .form-control.custom-dropdown ~ .select2.select2-container{ width: 142px !important; max-width: 100%; }
+.presentationsmodal.modal .modal-body { padding: 30px; }
+.presentationsmodal.modal .modal-body .pdf-list { display: flex; flex-wrap: wrap; margin: 33px -10px 20px; }
+.presentationsmodal.modal .modal-body .pdf-list li { padding: 0 10px; width: 33.33%; }
+.presentationsmodal.modal .modal-body .card-info { display: flex; align-items: flex-end; justify-content: space-between; padding: 15px; position: relative; top: 0; margin: 0 0 30px;}
+.presentationsmodal.modal .modal-body .card-info > em{min-width: 24px;}
+.presentationsmodal.modal .modal-body .card-info:hover, .presentationsmodal.modal .modal-body .card-info:focus { box-shadow: 0px 0px 18px 8px rgba(0, 0, 0, 0.18) !important; top: -10px; }
+.presentationsmodal.modal .modal-body .card-info .h6 { color: #282828; margin-bottom: 13px; }
+.presentationsmodal.modal .modal-body .card-info span { font-size: 14px; line-height: 18px; }
+
+.virtual-agm-info { background-color: #359de5; padding: 16px 0; }
+.virtual-agm-info .h4 { color: #fff; font-weight: 400; text-align: left; margin: 0; }
+
+@media (max-width:1199px) {
+	.investors-financial-report-block .container > p { margin: 0 0px 18px; }
+}
+@media (max-width:991px) {
+	.investors-page h2 { font-size: 30px; line-height: 34px; }
+	.investors-page h2, .investors-news-block h2, .investors-stock-block .container > h2, .investors-distributions-block .container > h2, .investors-drip-block h2, .investors-analysts-block .container > h2, .investors-governance-block .container > h2 { margin-bottom: 30px; }
+	.investors-page .h4 { font-size: 20px; line-height: 24px; }
+
+	.card-distribute { padding: 12px 20px 20px; }
+	.card-distribute .distribute-left { padding: 20px 20px 0px 0; }
+	.card-distribute .distribute-right { padding-left: 15px; }
+
+	.investors-fund-block { padding: 60px 0 0; }
+	.investors-fund-block .card-info { padding: 30px 24px; margin: 0; }
+	.investors-fund-block .h4 { font-size: 20px; line-height: 24px; margin-bottom: 20px; }
+	.investors-fund-block .card-info .thumb { min-width: 220px; }
+
+	.investors-products-box .investors-products-title em { min-width: 42px; width: 42px; height: 42px; margin-right: 12px; }
+	.investors-products-box .investors-products-title .h5 { padding: 12px; }
+
+	.investors-vision-block .h4 { font-size: 24px; line-height: 28px; }
+	.investors-vision-block p { font-size: 18px; line-height: 22px; }
+
+	.investors-join-block .input-group>.input-group-append>.btn { font-size: 20px; line-height: 24px; }
+
+	.investors-news-block { padding: 40px 0; }
+
+
+	.investors-stock-block { padding: 10px 0 40px; }
+	.investors-stock-block p { font-size: 18px; line-height: 22px; }
+	.investors-stock-outer .h3 { font-size: 28px; line-height: 32px; }
+
+
+	.investors-financial-report-block { padding: 30px 0 38px; }
+	.investors-financial-report-block .form-control.custom-dropdown ~ .select2-container { margin: 0 auto 30px; }
+	.investors-financial-report-block .card-info { padding: 15px; }
+	.investors-financial-report-block .card-info-wrapper { margin-bottom: 30px; height: calc(100% - 30px); }
+
+	.investors-distributions-block { padding: 40px 0 50px; }
+
+	.investors-drip-block { padding: 22px 0 30px; }
+	.investors-drip-block .h4 { font-size: 20px; line-height: 22px; margin-bottom: 30px; }
+
+	.investors-webcasts-block { padding: 50px 0 48px; }
+	.investors-webcasts-block .card-distribute { padding: 22px 20px; }
+	.investors-webcasts-block .distribute-right { padding-left: 20px; }
+
+	.investors-presentations-block { padding: 30px 0 40px; }
+	.investors-presentations-block .container > p { margin-bottom: 30px; }
+	.investors-presentations-block .card { margin-bottom: 30px; }
+	.investors-presentations-block .card .h6 { margin: 15px 0px 0px; }
+
+	.investors-analysts-block { padding: 48px 0 30px; }
+
+	.investors-governance-block { padding: 32px 0 30px; margin-bottom: 30px; }
+	.investors-governance-block .h4 { margin: 24px 0 20px; font-size: 20px; line-height: 24px; }
+}
+
+@media (max-width:767px) {
+	.investors-page h2 { font-size: 28px; line-height: 32px; }
+	.investors-page h2, .investors-news-block h2, .investors-stock-block .container > h2, .investors-drip-block h2, .investors-analysts-block .container > h2, .investors-governance-block .container > h2 { margin-bottom: 20px; }
+	.investors-page .h4 { font-size: 18px; line-height: 22px; }
+
+	.virtual-agm-info { padding: 12px 0; }
+
+	.investors-distributions-block .container > h2 { margin-bottom: 40px; }
+	.investors-page p { font-size: 16px; line-height: 20px; }
+
+	.investors-governance-block .h4 { margin: 20px 0; font-size: 18px; }
+
+	.investors-fund-block { padding: 30px 0 0; }
+	.investors-fund-block .card-info { padding: 15px; }
+	.investors-fund-block .card-info .info { padding-right: 0; }
+	.investors-fund-block .card-info .thumb { display: none; }
+	.investors-fund-block h2.h4 { margin-bottom: 12px;}
+	.investors-fund-block .h4 { fonfont-weight: 700; text-align: left; t-size: 18px; line-height: 22px; margin-bottom: 20px; }
+
+	.investors-business-block { padding: 50px 0 0; }
+	.investors-business-block .container > .h4 { margin-bottom: 20px; }
+	.investors-business-block .investors-products-box { margin-bottom: 15px; }
+	.investors-products-box .investors-products-title { min-height: inherit; height: auto !important; }
+	.investors-products-box .investors-products-title em { min-width: 40px; width: 40px; height: 40px; margin-right: 10px; }
+	.investors-products-box .investors-products-title .h5 { padding: 10px; }
+	.investors-products-box .investors-products-body { padding: 20px 15px; }
+	.investors-financial-report-block .card-info-wrapper { margin-bottom: 15px; height: calc(100% - 15px); }
+
+	.investors-vision-block { padding: 30px 0; }
+	.investors-vision-block .h4 { font-size: 20px; line-height: 24px; }
+
+	.investors-join-block { padding: 28px 0; }
+	.investors-join-block p { font-size: 14px; line-height: 18px; }
+	.investors-join-block .h4 { margin-bottom: 20px; }
+	.investors-join-block .form-control { height: 48px; }
+	.investors-join-block .input-group>.input-group-append>.btn { font-size: 18px; line-height: 22px; padding: 0 20px; }
+
+	.investors-news-block { padding: 30px 0 40px; }
+	.investors-news-slider-footer { flex-direction: column; }
+	.investors-news-slider-arrows { display: flex; margin: 0 0 15px; }
+	.investors-news-slider-arrows .swiper-button-next,	.investors-news-slider-arrows .swiper-button-prev { width: 42px; height: 42px; }
+
+	.investors-stock-wrapper { padding: 18px 0 0; }
+	.investors-stock-outer { padding: 16px 15px 23px; justify-content: center; text-align: center; margin-bottom: 20px;}
+	.investors-stock-outer .investors-stock-title, .investors-stock-outer .investors-stock-moniter,.investors-stock-outer .investors-stock-volume { width: 100%; margin-bottom: 15px; }
+	.investors-stock-outer .investors-stock-moniter, .investors-stock-outer .investors-stock-volume { width: 50%; padding: 0 6px;}
+	.investors-stock-outer .investors-stock-moniter { justify-content: center; }
+	.investors-stock-outer .h3 { font-size: 22px; line-height: 26px; }
+	.investors-stock-block .h5 { margin-left: 0; width: 100%; }
+	.investors-stock-outer.investors-stock-outer-secondary { padding: 18px 60px 18px 18px; }
+	.investors-stock-outer.investors-stock-outer-secondary::before { width: 36px; height: 24px; background-size: 36px; }
+
+	.card-distribute .table { font-size: 16px; line-height: 20px; }
+	.card-distribute .distribute-left { width: 100%; border-right: none; padding: 0; }
+	.card-distribute .distribute-right { width: 100%; padding-left: 0px; margin-top: 30px; }
+	.card-distribute .distribute-table-header { display: block; text-align: center; }
+	.card-distribute .distribute-right .h4 { margin-bottom: 15px; }
+	.card-distribute .distribute-right .form-control.custom-dropdown ~ .select2-container { margin: 0 auto; }
+	.card-distribute .table td, .card-distribute .table th { padding: 7px 13px; }
+	.card-distribute .distribute-footer { text-align: center; }
+
+	.investors-drip-block .h4 { font-size: 18px; line-height: 22px; margin-bottom: 20px; }
+
+	.investors-presentations-block .card { max-width: 240px; margin: 0 auto 20px; }
+
+	.investors-webcasts-block { padding: 40px 0 48px; }
+
+	.investors-analysts-block { padding: 40px 0 30px; }
+
+	.investors-analysts-block .table { font-size: 16px; line-height: 20px; }
+	.investors-analysts-block .table thead th { padding: 18px 10px; }
+	.investors-analysts-block .table td, .investors-analysts-block .table th { padding: 18px 10px; }
+
+	.presentationsmodal.modal .modal-dialog { width: auto; }
+	.presentationsmodal.modal .modal-body { padding: 15px; }
+	.presentationsmodal.modal .modal-body .pdf-list li { padding: 0 10px; width: 100%; }
+	.presentationsmodal.modal .modal-body .pdf-list { margin: 30px -10px 0px; }
+}

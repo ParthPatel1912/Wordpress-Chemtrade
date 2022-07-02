@@ -1,0 +1,14 @@
+.pagenotfound-block { max-width: 730px; margin: 0 auto; color: #666; text-align: center; padding: 60px 15px; }
+.pagenotfound-block h2 { font-size: 150px; line-height: 154px; color: #666; font-weight: 700;}
+.pagenotfound-block h2 span { display: block; font-size: 45px; line-height: 49px; font-weight: 400;}
+.pagenotfound-block .btn { text-transform: uppercase; }
+
+@media (max-width: 991px) {
+	.pagenotfound-block h2 { font-size: 100px; line-height: 104px; }
+	.pagenotfound-block h2 span { font-size: 34px; line-height: 38px; }
+}
+@media (max-width: 767px) {
+	.pagenotfound-block {padding: 50px 15px; }
+	.pagenotfound-block h2 { font-size: 80px; line-height: 84px; margin-bottom: 15px;}
+	.pagenotfound-block h2 span { font-size: 26px; line-height: 30px; }
+}
